@@ -1,1 +1,1 @@
-# -_3-_Haskell
+# -Practicum_3course-_Haskell
